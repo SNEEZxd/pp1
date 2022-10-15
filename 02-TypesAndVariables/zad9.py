@@ -1,0 +1,5 @@
+name= input('enter your name: ')
+surname = input('ener surname: ')
+print(name,surname)
+print(f'your name {name} {surname}')
+print('abc{}'.format('a'))
